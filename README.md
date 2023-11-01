@@ -8,7 +8,7 @@ A simple and classic game of Tic-Tac-Toe, also known as Noughts and Crosses, bui
 The Tic-Tac-Toe Game is a fun and educational project designed to help you explore fundamental web development technologies, such as HTML, CSS, and JavaScript. This game allows two players to compete in the timeless Tic-Tac-Toe challenge with a user-friendly interface.
 
 ## Demo
-[Link to Live Demo](https://your-demo-link-here)
+[Link to Live Demo](https://umakant3525.github.io/Tic-tac-toe-Game/)
 
 # Technologies Used
 - HTML
